@@ -1,0 +1,14 @@
+# Python 缓存
+__pycache__/
+*.pyc
+
+# IDE 配置
+.idea/
+
+# 模型文件（大体积）
+save/
+*.pkl
+cws_result.txt
+
+# 日志
+*.log
