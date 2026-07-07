@@ -1,6 +1,5 @@
 实验中代码仅提供一种简单的 Bi-LSTM+CRF PyTorch 实现方案。
 
-更优实现可参见：https://github.com/bamtercelboo/pytorch_NER_BiLSTM_CNN_CRF/
 
 ## 环境搭建
 
